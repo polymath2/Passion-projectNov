@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.logo{
+    margin-left: 25px;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #898080;
+}
+.btns{
+    margin-right: 15px;
+}
+
+button{
+    margin-right: 10px;
+    font-size: 9px;
+    padding: 11px;
+    border:1px solid gray;
+    color: rgb(87, 169, 158);
+    background: none;
+    font-weight: bold;
+    
+}
+
+.green{
+    background: rgb(87, 169, 158);;
+    color: #fff;
+}
+.green span{
+    margin-left: 10px;
+}
